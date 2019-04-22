@@ -1,0 +1,126 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+header {
+    background-color:#ffffff;
+    border-bottom: solid #cccccc;
+    height:80px;
+    width:100%;
+}
+
+.myName {
+    background-color:#4aaaa5;
+    color:white;
+    font-family:'Georgia', 'Times New Roman', Times, serif;
+    margin-left:220px;
+    padding-left:20px;
+    padding-bottom:15px;
+    width:200px;
+    float:left;
+}
+
+.Nav {
+    margin-left:485px;
+    margin-top:15px;
+    float:left;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+li {
+    list-style: none;
+    float:left
+    
+}
+
+#item1 {
+    color:#777777;
+    padding-right: 25px;
+
+}
+
+#item2 {
+    color:#777777;
+    padding-right: 25px;
+    border-left:#eeeeee solid;
+    border-right:#eeeeee solid;
+    
+}
+
+#item3 {
+    color:#777777;
+    
+
+}
+
+.main-content {
+    background-color:#ffffff;
+    width:960px;
+    border-bottom:solid #cccccc 100px;
+    border-left:solid #cccccc 220px;
+    border-top:solid #cccccc 40px;
+    border-right:solid #cccccc 200px;
+    overflow:auto;
+    
+}
+
+.main-header {
+    font-family:'Georgia', 'Times New Roman', Times, serif;
+    color:#4aaaa5;
+    margin-left: 20px;
+    border-bottom: #cccccc solid;
+    width:900px;
+    padding-left:20px;
+    padding-bottom: 30px;
+}
+
+.main-pic {
+    padding-left:20px;
+    float:left;
+
+}
+
+.main-text {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:20px;
+}
+
+footer {
+    text-align:center;
+    background-color: #666666;
+    border-top: solid #4aaaa5 10px;
+    height:100%;
+    
+
+}
+
+.message-box {
+    height: 150px;
+    width:915px;
+    margin-left:20px;
+}
+
+.name-box {
+    width:915px;
+    margin-left:20px;
+}
+
+.email-box {
+    width:915px;
+    margin-left:20px;
+}
+
+.input-text {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:20px;
+    margin-bottom:5px;
+}
+
+#submit-button {
+    color:#4aaaa5;
+    margin-left:20px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
