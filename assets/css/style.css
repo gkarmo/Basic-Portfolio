@@ -1,32 +1,32 @@
-html, body {
-    position:fixed;
-    top:0;
-    bottom:0;
-    right:0;
-    left:0;
+body {
 }
 
 header {
     background-color:#ffffff;
     border-bottom: solid #cccccc;
-    height:80px;
+    height:68px;
     width:100%;
+    
 }
 
 .myName {
-    background-color:#4aaaa5;
-    color:white;
-    font-family:'Georgia', 'Times New Roman', Times, serif;
-    margin-left:220px;
-    padding-left:20px;
-    padding-bottom:15px;
-    width:200px;
-    float:left;
+    position: relative;
+    top: 0px;
+    left:219px;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    width: 200px;
+    float: left;
+    font-weight:bold;
+    font-size: 28px;
+    padding: 20px;
 }
 
 .Nav {
-    margin-left:485px;
-    margin-top:15px;
+    position: relative;
+    top: 28px;
+    left: 732px;
     float:left;
     font-family:Arial, Helvetica, sans-serif;
     
@@ -70,22 +70,26 @@ li {
 }
 
 .main-header {
-    font-family:'Georgia', 'Times New Roman', Times, serif;
-    color:#4aaaa5;
+    position: relative;
+    font-size: 28px;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #4aaaa5;
     margin-left: 20px;
     border-bottom: #cccccc solid;
-    width:900px;
-    padding-left:20px;
-    padding-bottom: 30px;
+    width: 900px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .main-pic {
-    padding-left:20px;
+    padding:20px;
     float:left;
 
 }
 
 .main-text {
+    padding:20px;
     font-family:Arial, Helvetica, sans-serif;
     margin-left:20px;
 }
