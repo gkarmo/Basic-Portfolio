@@ -118,22 +118,54 @@ footer {
 .name-box {
     width:915px;
     margin-left:20px;
+    color:#777777;
 }
 
 .email-box {
     width:915px;
     margin-left:20px;
+    color:#777777;
 }
 
 .input-text {
-    font-family:Arial, Helvetica, sans-serif;
-    margin-left:20px;
-    margin-bottom:5px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    color: #777777;
+    padding-top: 20px;
+    padding-bottom: 5px
 }
 
 #submit-button {
-    color:#4aaaa5;
-    margin-left:20px;
-    margin-top:20px;
-    margin-bottom:20px;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 10px;
+    width: 52px;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+#headphones {
+    position:relative;
+    padding:20px;
+}
+
+#city {
+    position:relative;
+    padding:20px;
+}
+
+#tiger {
+    position:relative;
+    padding:20px;
+}
+
+#dog {
+    position:relative;
+    padding:20px;
+}
+
+#traffic {
+    position:relative;
+    padding:20px;
 }
