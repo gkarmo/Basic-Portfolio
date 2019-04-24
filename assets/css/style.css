@@ -5,7 +5,7 @@ header {
     background-color:#ffffff;
     border-bottom: solid #cccccc;
     height:68px;
-    width:110%;
+    width:109%;
     
 }
 
@@ -60,6 +60,11 @@ li {
 .list-link {
     color:#777777;
     text-decoration:none;
+    
+}
+
+.list-link:hover{
+    color:#4aaaa5;
 }
 
 .main-content {
