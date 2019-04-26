@@ -12,7 +12,7 @@ header {
 .myName {
     position: relative;
     top: 0px;
-    left:219px;
+    left:200px;
     background-color: #4aaaa5;
     color: white;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
@@ -101,6 +101,7 @@ li {
     padding:20px;
     font-family:Arial, Helvetica, sans-serif;
     margin-left:20px;
+    line-height:30px;
 }
 
 footer {
@@ -177,4 +178,59 @@ footer {
 #traffic {
     position:relative;
     padding:20px;
+}
+
+#hangman {
+    text-align:center;
+    background-color: #4aaaa5;
+    color: white;
+    width: 240px;
+    padding: 20px;
+    position: relative;
+    left: 20px;
+    top: -594px;
+}
+
+#rpg-game {
+    text-align:center;
+    background-color: #4aaaa5;
+    color: white;
+    width: 240px;
+    padding: 20px;
+    position: relative;
+    left: 344px;
+    top: -650px;
+}
+
+#triva {
+    text-align:center;
+    background-color: #4aaaa5;
+    color: white;
+    width: 240px;
+    padding: 20px;
+    position: relative;
+    left: 20px;
+    top: -453px;
+}
+
+#penn-info {
+    text-align:center;
+    background-color: #4aaaa5;
+    color: white;
+    width: 240px;
+    padding: 20px;
+    position: relative;
+    left: 344px;
+    top: -509px;
+}
+
+#rock-paper {
+    text-align:center;
+    background-color: #4aaaa5;
+    color: white;
+    width: 240px;
+    padding: 20px;
+    position: relative;
+    left: 20px;
+    top: -313px;
 }
