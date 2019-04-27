@@ -1,11 +1,11 @@
 body {
+    background-color:#ffffff;
 }
 
 header {
     background-color:#ffffff;
     border-bottom: solid #cccccc;
     height:68px;
-    width:1360px;
     
 }
 
@@ -68,12 +68,7 @@ li {
 }
 
 .main-content {
-    background-color:#ffffff;
     width:960px;
-    border-bottom:solid #cccccc 100px;
-    border-left:solid #cccccc 200px;
-    border-top:solid #cccccc 40px;
-    border-right:solid #cccccc 200px;
     overflow:auto;
     
 }
@@ -109,7 +104,6 @@ footer {
     background-color: #666666;
     border-top: solid #4aaaa5 10px;
     height:80px;
-    width:1360px;
 }
 
 .foot-text {
