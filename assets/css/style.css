@@ -1,5 +1,5 @@
 body {
-    background-color:#ffffff;
+    background-color:#cccccc;
 }
 
 header {
@@ -68,8 +68,12 @@ li {
 }
 
 .main-content {
+    background-color:#ffffff;
     width:960px;
     overflow:auto;
+    margin-top:20px;
+    margin-bottom:100px;
+    margin-left:200px;
     
 }
 
