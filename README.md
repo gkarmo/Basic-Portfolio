@@ -1,2 +1,2 @@
 # Basic-Portfolio
-Gayah Karmo's Pprtfolio
+Gayah Karmo's Portfolio
