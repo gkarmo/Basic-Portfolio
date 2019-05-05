@@ -240,3 +240,49 @@ footer {
 .sub-link {
     text-decoration:none;
 }
+
+@media (max-width: 980px) {
+.myName {
+    position: relative;
+    top: 0px;
+    left: 100px;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    width: 200px;
+    float: left;
+    font-weight: bold;
+    font-size: 28px;
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+    position:relative;
+    left:-311px;
+}
+}
+
+
+
+@media (max-width: 768px) {
+.myName {
+    position: relative;
+    top: 0px;
+    left: 100px;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    width: 200px;
+    float: left;
+    font-weight: bold;
+    font-size: 28px;
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+    position:relative;
+    left:-450px;
+}
+}
